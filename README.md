@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este projeto consiste em um **Jogo da Velha ** desenvolvido em **Python** utilizando a biblioteca **Pygame** para a criação da interface gráfica e interação com o usuário.
+Este projeto consiste em um **Jogo da Velha** desenvolvido em **Python** utilizando a biblioteca **Pygame** para a criação da interface gráfica e interação com o usuário.
 
 O projeto foi desenvolvido como parte de um **trabalho universitário da disciplina de Programação de computadores**, com o objetivo de aplicar conceitos fundamentais de lógica de programação, estruturas de controle, manipulação de eventos e desenvolvimento de interfaces gráficas.
 
