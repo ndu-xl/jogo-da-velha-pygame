@@ -12,7 +12,7 @@ Este projeto consiste em um **Jogo da Velha** desenvolvido em Python utilizando 
 
 Foi desenvolvido como parte de um trabalho universitário da disciplina de **Programação de Computadores**, com o objetivo de aplicar conceitos fundamentais de lógica de programação, estruturas de controle, manipulação de eventos e desenvolvimento de interfaces gráficas.
 
-Toda a implementação — desde a modelagem da lógica do jogo até a construção da interface e testes da aplicação — foi realizada exclusivamente por mim e por meu amigo.
+Toda a implementação — desde a modelagem da lógica do jogo até a construção da interface e testes da aplicação.
 
 ---
 
