@@ -71,3 +71,8 @@ Projeto desenvolvido por **Ryan Falcao** e **Eduardo França** como atividade ac
     <img src="https://img.shields.io/badge/GitHub-Ryan--Falcao-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Ryan Falcao"/>
   </a>
 </p>
+<p align="left">
+  <a href="https://github.com/ndu-xl">
+    <img src="https://img.shields.io/badge/GitHub-Eduardo--Fran%C3%A7a-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Eduardo França"/>
+  </a>
+</p>
